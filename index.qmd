@@ -1,5 +1,5 @@
 ---
-title: "Workshop Exercise: Emissions Data - Table, Map, and Chart"_Victoria Shipanga
+title: "Workshop Exercise: Emissions Data - Table, Map, and Chart"
 format: html
 ---
 
